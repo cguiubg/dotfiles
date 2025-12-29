@@ -1,1 +1,2 @@
-# cguiubg-rice
+# dotfiles
+
